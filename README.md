@@ -1,7 +1,7 @@
-hi! im gigamonster647
-im in middle school
-i code in python
-make very simple stuff cuz its all i know how to do
+hi! im gigamonster647,
+im in middle school,
+i code in python,
+make very simple stuff cuz its all i know how to do,
 yeahh
 
 
